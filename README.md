@@ -7,3 +7,4 @@ Depois, criei o diretório website usando o comando mkdir website, ao entrar nes
  
 Por ultimo, descobrindo o ip com "ip a", pude entrar em minha aplicação indicando a porta anteriormente citada no arquivo compose.yml (80).
   
+docker-compose down.
